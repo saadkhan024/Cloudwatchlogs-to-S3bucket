@@ -6,7 +6,7 @@ import datetime
 
 GROUP_NAME = "aws/lambda/applicationlambda"
 DESTINATION_BUCKET = "logexportbucketdemo"
-PREFIX = "CloudQuickLabs"
+PREFIX = "My_test-code"
 NDAYS = 0
 nDays = int(NDAYS)
 
