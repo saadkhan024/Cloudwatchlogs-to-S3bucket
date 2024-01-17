@@ -4,7 +4,7 @@ import datetime
 
 
 
-GROUP_NAME = "aws/lambda/applicationlambda"
+GROUP_NAME = "/aws/lambda/applicationlambda"
 DESTINATION_BUCKET = "logexportbucketdemo"
 PREFIX = "My_test-code"
 NDAYS = 0
